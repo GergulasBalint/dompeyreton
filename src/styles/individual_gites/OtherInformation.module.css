@@ -1,0 +1,47 @@
+.background {
+  background-color: #f4f4f4;
+}
+
+.container {
+  padding: 2rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.list {
+  list-style: none;
+}
+
+.list li::before {
+  content: "\2022";
+  color: #c78d38;
+  font-size: 1rem;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+.listItem {
+  font-family: "lato", sans-serif;
+  /* font-size: 0.8rem; */
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+
+.text {
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.75rem;
+  margin-left: -1rem;
+}
+
+@media screen and (max-width: 992px) {
+  .container {
+    padding: 0;
+    padding-top: 2rem;
+  }
+}

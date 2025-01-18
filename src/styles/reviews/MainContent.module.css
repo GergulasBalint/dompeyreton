@@ -1,0 +1,17 @@
+.main {
+  position: relative;
+  overflow: hidden;
+}
+
+.imageContainer {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: -10;
+}
+
+.reviews {
+  margin: 3rem 0;
+}

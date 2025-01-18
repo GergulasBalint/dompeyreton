@@ -1,0 +1,64 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 3rem 0;
+}
+
+.text {
+  max-width: 1000px;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.75rem;
+}
+
+.imageContainer {
+  position: relative;
+  display: grid;
+  grid-area: "image1" "image2 image3";
+  margin: 0 auto;
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.image {
+  position: relative;
+  aspect-ratio: 4/3;
+  margin-bottom: 0.7rem;
+}
+
+.image:nth-child(2) {
+  width: 49%;
+}
+
+.image:nth-child(3) {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 49%;
+}
+
+@media (min-width: 992px) {
+  .imageContainer {
+    display: flex;
+    width: 100%;
+  }
+
+  .image {
+    position: relative;
+    width: 33%;
+  }
+
+  .image:nth-child(2) {
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+    width: 33%;
+  }
+
+  .image:nth-child(3) {
+    position: relative;
+    bottom: unset;
+    right: unset;
+    width: 33%;
+  }
+}

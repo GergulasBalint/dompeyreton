@@ -1,0 +1,51 @@
+.background {
+  position: relative;
+  height: 70vh;
+}
+
+.bgImage {
+  padding: 0;
+  object-fit: cover;
+}
+
+.contentContainer {
+  background-color: #fff;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.mainTitle {
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+.text {
+  max-width: 1000px;
+  font-size: 1rem;
+  font-weight: 400;
+  text-align: center;
+  line-height: 1.75rem;
+}
+
+@media screen and (max-width: 620px) {
+  .background {
+    height: 60vh;
+  }
+
+  .content {
+    padding-top: 1rem;
+    display: flex;
+    height: fit-content;
+  }
+}

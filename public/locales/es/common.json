@@ -1,0 +1,176 @@
+{
+	"navigation": {
+		"home": "Inicio",
+		"our_gites": "Nuestras casas",
+		"our_vineyard": "Nuestro viñedo",
+		"locality": "Localidad",
+		"reservations": "Reservas",
+		"gallery": "Galería",
+		"about_us": "Sobre nosotros",
+		"contact_us": "Contáctenos",
+		"terms": "Terminos Y Condiciones",
+		"more_info": "Más información",
+		"reviews": "Reseñas",
+		"useful_links": "Enlaces útiles"
+	},
+	"util": {
+		"closeButton": "Cerrar"
+	},
+	"taglines": {
+		"tranquillity": "Tranquilidad.",
+		"relaxation": "Relajación.",
+		"privacy": "Privacidad."
+	},
+	"exploreGites": {
+		"heading": "Descubre nuestros alojamientos de lujo",
+		"detailsLinkText": "Ver detalles de la casa",
+		"gites": {
+			"lodge": {
+				"name": "The Lodge",
+				"description": "2 habitaciones dobles con baños privados"
+			},
+			"barn": {
+				"name": "The Barn",
+				"description": "3 dormitorios dobles con baños privados"
+			}
+		}
+	},
+	"pricing_action": {
+		"heading": "La base ideal para explorar las propiedades y la historia del vino de la región de Burdeos.",
+		"buttonText": "Reservas"
+	},
+	"home": {
+		"fullPageHeaderTitle": "Casas De Vacaciones De Lujo En El Corazón De Los Viñedos De Burdeos",
+		"fullPageHeaderButton": "Consultar Disponibilidad Y Precios",
+		"introContentTitle": "Bienvenido a Château Vieux Moulin",
+		"introContentTextPart1": "Disfrute de la paz y la tranquilidad de la campiña francesa en nuestras recién creado - Dom Peyreton casas de prestigio de cinco estrellas,",
+		"introContentTextPart2": "y solo para adultos. Sin vecinos cerca y con vistas a nuestro pequeño viñedo y a los bosques circundantes, nuestras casas de piedra ofrecen la oportunidad perfecta para dejar atrás las preocupaciones y el ruido de la vida cotidiana y empaparse del ambiente mientras disfruta de una copa de algo frío en su piscina privada climatizada.",
+		"introContentTextNote": "Nota: aunque consideramos que nuestras casas son el lugar ideal para que los mayores de 18 años disfruten de unas vacaciones relajantes, aceptamos con mucho gusto a jóvenes mayores de 14 años cuyos padres crean que encajarían en un entorno de este tipo - ¡no dude en ponerse en contacto con nosotros si tiene hijos menores de 18 años!",
+		"allInclusive": "con todo incluido*",
+		"allInclusiveModalHeading": "*acon todo incluido",
+		"allInclusiveModalText": "Incluimos en los gastos de alquiler el coste de las sábanas, las toallas, la limpieza y la famosa tasa turística francesa (a pagar por día y por persona), por lo que el precio que ves es el precio que pagas.",
+		"homeContentVineyardHeading": "Nuestro viñedo y nuestros vinos",
+		"homeContentVineyardText": "Ubicado junto a la mundialmente famosa denominación de origen Fronsac, Château Vieux Moulin fue una vez un viñedo galardonado con más de 30 hectáreas de viñedos. La propiedad comprada en 2018 por Iain y Marta comprendía 10,5 hectáreas de las cuales 8,5 estaban plantadas con Merlot, Cabernet Sauvignon y Cabernet Franc.",
+		"homeContentVineyardButton": "Más información",
+		"homeContentLocalityHeading": "Localidad",
+		"homeContentLocalityText": "Nuestra propiedad está ubicada en el corazón de los viñedos de Burdeos, a poca distancia en automóvil del hermoso y mundialmente famoso pueblo de Saint-Emilion situado en la cima de una colina, y a unos 800 m del pueblo local de Villegouge, donde encontrará un pequeño supermercado, peluquería y panadería artesanal para su croissant de la mañana. Libourne, una bonita ciudad fortificada situada en la confluencia de los ríos Isle y el Dordogne, está a unos 10 minutos en coche y todos los lugares de interés y atracciones de la hermosa ciudad de Burdeos están a unos 30 minutos.",
+		"homeContentLocalityButton": "Más información"
+	},
+	"our_gites": {
+		"fullPageHeaderTitle": "Descubra nuestras casas de piedra de lujo",
+		"fullPageHeaderText": "La propiedad consta de dos casas de piedra de calidad en las dependencias del Château, recientemente calificado con 5 estrellas por la Agencia de Desarrollo Turístico de Francia. 'The Barn' ofrece tres habitaciones con baño, mientras que 'The Lodge' ofrece dos, todas con baño. 'Las dos casas se pueden alquilar juntas para proporcionar un alojamiento espacioso para 10 personas en un total de cinco habitaciones con baño'. Estamos asociados a otra propiedad a unas pocas millas de distancia con otras cinco habitaciones para grupos más grandes.",
+		"fullPageHeaderText2": "",
+		"mainContentParagraph1": "Todas las habitaciones tienen baños en suite completamente alicatados, la mayoría con duchas de lluvia y lavabos de lujo con doble pila. Todos los dormitorios tienen camas de 180x200 o 160x200 con sábanas de algodón de alta calidad y almohadas de pluma de ganso (hay opciones hipo alergénicas disponibles) y muebles de roble macizo. Las camas están hechas y esperando para darle la bienvenida cuando llegue.",
+		"mainContentParagraph2": "Cada casa está equipada con una cocina de alta gama que incluye una cocina de gama, frigorífico-congelador, lavavajillas, lavadora/secadora y encimeras de piedra, así como electrodomésticos y utensilios de cocina. ¡Iluminación ambiental LED instalada en todas partes para proporcionar momentos de ocio de vacaciones más relajantes!",
+		"mainContentParagraph3": "Cada jardín ajardinado ofrece una piscina privada climatizada, plancha, zona para tomar el sol junto a la piscina, gran cenador de roble para cenar al aire libre, elegantes muebles de jardín, iluminación ambiental por la noche y encantadoras y relajantes vistas del campo circundante. A su llegada, se le proporciona un paquete de productos de bienvenida (¡incluido nuestro propio vino!) para que pueda comenzar.",
+		"mainContentParagraph4": "Amplio estacionamiento apto para usuarios de sillas de ruedas disponible en el parking de grava inmediatamente adyacente al patio. El estacionamiento, el patio y el camino que se acerca a las casas están iluminados por la noche para darle la bienvenida después de un duro día de turismo y degustación de la excelente comida y vino local.",
+		"mainContentParagraph5": "Tenemos 6 bicicletas unisex disponibles que prestamos si ver el campo sobre dos ruedas es lo suyo y un terreno de petanca tamaño campeonato, por si le apetece perfeccionar sus habilidades con la petanca mientras se aloja con nosotros!"
+	},
+	"our_vineyard": {
+		"fullPageHeaderTitle": "Nuestro Viñedo y nuestros vinos",
+		"fullPageHeaderText": "Ubicado junto a la mundialmente famosa denominación de origen Fronsac, Château Vieux Moulin fue una vez un viñedo galardonado con más de 30 hectáreas de viñedos. La propiedad comprada en 2018 por Iain y Marta comprendía 10,5 hectáreas de las cuales 8,5 estaban plantadas con Merlot, Cabernet Sauvignon y Cabernet Franc. Desafortunadamente, gran parte del viñedo estaba en tan mal estado que tuvo que ser arrancado, dejando alrededor de una hectárea de Merlot aún plantada. ¡Esta hectárea ha sido cuidadosamente cultivada y vigorizada desde 2018 y en la cosecha de 2022 produjo más de 3.400 litros de vino AOC Bordeaux Supérieur! Hacemos nuestro vino de la forma más natural posible y aunque no estamos certificados como orgánicos, respetamos tantos procesos orgánicos como sea posible. ¡Nos complace organizar una degustación de nuestras añadas de 2018 a 2022, así como las de nuestra propiedad asociada, Château L'Eperon y organizar una visita a nuestras acogedoras bodegas! Por desgracia, en 2023 nuestro viñedo sucumbió a los estragos del mildiu, que marchita las uvas hasta dejarlas en nada, por lo que lamentablemente no habrá cosecha 2023."
+	},
+	"locality": {
+		"fullPageHeaderTitle": "Localidad",
+		"fullPageHeaderText1": "Nuestra propiedad está ubicada en el corazón de los viñedos de Burdeos, a aproximadamente 800 metros del pueblo local de Villegouge, donde encontrará un pequeño supermercado, una peluquería y un panadero artesanal para sus croissants matutinos Estamos a pocos minutos en automóvil del mundialmente famoso pueblo de Saint-Emilion que, en 1999, fue catalogado como Patrimonio de la Humanidad por la UNESCO (No se pierda la vista panorámica desde el patio exterior adyacente al hotel de Pavie). Libourne, una bonita ciudad fortificada situada en la confluencia del Isle y la Dordoña, está a unos 10 minutos en coche y todos los lugares de interés y atracciones de la hermosa ciudad de Burdeos están a unos 30 minutos.",
+		"fullPageHeaderText2": "Libourne situada en la confluencia del Isle y la Dordoña, acoge tres mercados cada semana. Los mercados locales siempre han estado muy presentes en Francia y Libourne alberga tres mercados pro semana los martes, los viernes y el 'big daddy' todos los domingos, que suele tener más de 100 puestos. ¡Una bebida después del mercado para acompañar un plato de ostras locales es casi obligatoria y podría convertirse en su nueva tradición vacacional favorita! Más lejos, todos los lugares de interés y atracciones de la hermosa ciudad de Burdeos están a unos 30 minutos y, por supuesto, el Bassin d'Arcachon ofrece hermosas playas de arena y la Dune du Pilat, que es la duna de arena más alta de Francia.",
+		"mainContentHeading": "El interior de Burdeos",
+		"mainContentParagraph1": "Las principales regiones vinícolas de Burdeos (p. ej., St. Emilion, Pomerol, Pauillac, St. Estèphe, Médoc y Margaux) están a poca distancia en coche, lo que convierte a nuestras casas de piedra en la base perfecta para explorar la historia y las bodegas de Burdeos.",
+		"mainContentParagraph2": "Si está buscando una vida nocturna animada y un torbellino social agitado, entonces Château Vieux Moulin probablemente no sea para usted. Si, por el contrario, está buscando paz, tranquilidad y los hermosos alrededores de Burdeos, nos deberían visitar definitivamente!",
+		"mainContentParagraph3": "Nuestro folleto de bienvenida brinda más detalles sobre el área, incluidas recomendaciones de restaurantes y lugares para visitar."
+	},
+	"reservations": {
+		"fullPageHeaderTitle": "Disponibilidad y precios",
+		"fullPageHeaderText1": "La propiedad incluye dos casas de piedra de calidad en las dependencias del château. The Barn ofrece tres habitaciones con baños en suite, mientras que The Lodge ofrece dos, nuevamente con baños en suite. Ambas casas se pueden alquilar como una sola unidad para grupos más grandes o familias, y ofrecen alojamiento para 10 personas, incluyendo cinco habitaciones, todas con baño privado. Estamos también asociados con una propiedad a unas pocas millas de distancia con otras cinco habitaciones para grupos más grandes.",
+		"fullPageHeaderText2": "Durante la temporada muy alta, las reservas solo se pueden hacer en múltiplos de siete días, comenzando y terminando un sábado. Fuera de la temporada muy alta, se puede hacer una reserva de un mínimo de dos noches y puede comenzar cualquier día, si la reserva es de tres noches o menos, se cobrará un cargo adicional de limpieza de 80 €/70 £. Nos reservamos el derecho de rechazar una reserva sin obligación de proporcionar una razón.",
+		"table1Heading": "Temporadas 2024 - Precio por semana",
+		"table2Heading": "Temporadas 2025 - Precio por semana",
+		"tableSeason": "Temporada",
+		"tableStart": "Inicio",
+		"tableFinish": "Fin",
+		"tableLodge": "The Lodge",
+		"tableLodgeSpan": "(4 Personas)",
+		"tableBarn": "The Barn",
+		"tableBarnSpan": "(6 Personas)",
+		"tableCombined": "The Lodge & The Barn",
+		"tableCombinedSpan": "(10 Personas)",
+		"tablePeak": "Muy alta",
+		"tableHigh": "Alta",
+		"tableMedium": "Media",
+		"tableLow": "Temporada baja",
+		"tableInfoText": "Para estancias más cortas, simplemente divida el precio indicado en la fecha de inicio de su estancia por 7 y multiplíquelo por el número de noches de su estancia. Los precios incluyen toallas (piscina y baño), ropa de cama e impuesto turístico.",
+		"subContentOtherHeading": "Otras informaciones",
+		"subContentOtherItem1": "Periodo mínimo de alquiler de una semana en temporada muy alta (sábado a sábado)",
+		"subContentOtherItem2": "Mayores de 18 solamente - aunque aceptamos a mayores de 14 años que encajen en un entorno adulto (¡con sus padres!).",
+		"subContentOtherItem3": "* Todo incluido: incluimos en el costo del alquiler el costo de la ropa de cama, las toallas, la limpieza y el famoso impuesto turístico francés (a pagar diariamente por persona) si reserva directamente con nosotros, por lo que el precio que ve es el precio que paga.",
+		"subContentAvailabilityHeading": "Disponibilidad de alojamientos",
+		"subContentAvailabilityText1": "Para disponibilidad y cualquier información adicional o preguntas que pueda tener sobre nuestro viñedo, los albergues o la región, contáctenos en:",
+		"subContentAvailabilityText2": "Teléfono: +33 (0)7 66 10 91 01 | +44 (0)7740 930845",
+		"subContentAvailabilityText3": "Alternativamente, puede completar el formulario de solicitud detallando la información de su estancia y las fechas requeridas. Una vez recibido, le informaremos si las fechas están disponibles y cómo proceder con su reserva.",
+		"subContentAvailabilityText4Click": "Haga clic aquí",
+		"subContentAvailabilityText4": "para descargar el formulario de solicitud de reserva.",
+		"subContentEnquiryHeading": "Formulario",
+		"subContentEnquiryName": "Nombre del invitado principal",
+		"subContentEnquiryEmail": "Dirección de correo electrónico",
+		"subContentEnquiryConfirmEmail": "Confirme su dirección de correo electrónico",
+		"subContentEnquiryCottage": "Que casa desearia reservar?",
+		"subContentEnquiryCottageSelectLodge": "The Lodge (Max: 4 Invitados)",
+		"subContentEnquiryCottageSelectBarn": "The Barn (Max: 6 Invitados)",
+		"subContentEnquiryCottageSelectBoth": "Las Dos (Max: 10 Invitados)",
+		"subContentEnquiryGuests": "Número de invitados",
+		"subContentEnquiryCheckIn": "Check In",
+		"subContentEnquiryCheckOut": "Check Out",
+		"subContentEnquiry18": "Todos los miembros del grupo serán mayores de 18 años",
+		"subContentEnquiryButtonText": "ENVIAR PETICIÓN",
+		"subContentWelcomeBookletButton": "Cuaderno de Bienvenida"
+	},
+	"gallery": {
+		"heading": "Galería",
+		"subHeading": "Vídeos"
+	},
+	"about_us": {
+		"fullPageHeaderTitle": "A Propósito De Nosotros",
+		"fullPageHeaderText1": "Château Vieux Moulin está dirigido por dos jubilados (muy) jóvenes, Iain y Marta Arias-Maxted. Marta es una veterinaria española que se mudó de España al Reino Unido en 2001. Iain es un ingeniero que fundó una empresa en 1996 diseñando y fabricando equipos para la industria petrolera que vendió en 2018. La pareja se mudó a Francia en 2019 para cumplir su sueño y ¡después de pasar tres años bastante estresantes para comprar Chateau Vieux Moulin!",
+		"fullPageHeaderText2": "Esperamos que ese no sea el caso, pero si encuentra algún problema durante su estancia, estamos a su disposición para resolverlo rápidamente. Nuestro único objetivo es que disfrute de unas vacaciones agradables, relajantes y rejuvenecedoras, así que háganos saber si hay algo más que podamos hacer para que esto sea una realidad.",
+		"mainContentHeading": "Renovaciones",
+		"mainContentParagraph": "Las casas se han creado a partir de las dependencias de piedra originales que anteriormente albergaban varias 'cuves' (o cubas de vinificación) utilizadas para elaborar las galardonadas cuvées del castillo. Se instaló un techo nuevo (con mucho aislamiento) en 2021, así como pisos completamente nuevos y fuertemente aislados, ahora equipados con calefacción/refrigeración por suelo radiante y cubiertos con mármol travertino natural. La estructura de piedra se ha conservado, renovado, reparado y rejuntado. Durante la renovación se construyó un primer piso para The Barn,  todo el soporte se hizo a mano e in situ con roble francés. El trabajo de renovación planteó grandes desafíos, ¡empezando por el hecho de que ninguna de las paredes era recta o vertical!"
+	},
+	"contact_us": {
+		"mainContentTitle": "Contáctenos",
+		"mainContentParagraph": "No dude en ponerse en contacto con nosotros si tiene alguna pregunta. Puede usar el formulario a continuación y nos pondremos en contacto con usted lo antes posible o llámenos o envíenos un correo electrónico directamente; los detalles se encuentran más abajo.",
+		"formFirstName": "Nombre",
+		"formLastName": "Apellido",
+		"formEmail": "Correo electrónico",
+		"formMessage": "Mensaje",
+		"formSubmit": "ENVIAR PETICIÓN"
+	},
+	"find_us": {
+		"heading": "Dónde encontrarnos",
+		"text1": "Estamos en una zona bastante rural y, aunque estamos encantados de prestarte nuestras bicicletas para visitar los viñedos locales, ¡Realmente necesitas un coche para aprovechar al máximo la zona!",
+		"text2": "Nuestras casas de piedra se encuentran a unos 27 km al noreste de Burdeos."
+	},
+	"individual_gite": {
+		"information": "Información de la casa",
+		"facilities": "Instalaciones",
+		"suites": "Dormitorios - Baños",
+		"kitchen": "Equipamiento de cocina",
+		"garden": "Jardín y su equipamiento"
+	},
+	"other_information": {
+		"title": "Otras informaciones",
+		"period": "Periodo mínimo de alquiler de una semana en temporada muy alta",
+		"age": "Mayores de 18 solamente - aunque aceptamos a mayores de 14 años que encajen en un entorno adulto (¡con sus padres!).",
+		"allInclusive": "* Todo incluido: incluimos en la tarifa de alquiler el costo de las sábanas, las toallas, la limpieza y el famoso impuesto turístico francés (a pagar por día por persona), por lo que el precio que ve es el precio que paga."
+	},
+	"welcome_pack": {
+		"includes": "Su paquete de bienvenida incluye:"
+	},
+	"reviews": {
+		"fullPageHeaderTitle": "Reseñas",
+		"fullPageHeaderText": "Bienvenido a la página de comentarios de huéspedes de nuestra hermosa propiedad. Aquí encontrará una colección de experiencias preciadas, momentos de encanto y las conmovedoras historias de nuestros valiosos huéspedes de todo el mundo. Esperamos que vea esta colección de comentarios como algo más que palabras: lo vemos como un testimonio de los recuerdos creados a partir de la paz y la tranquilidad de nuestro entorno y entretejidos en las paredes de piedra de nuestro castillo. Mientras viaja a través de estas historias, esperamos que vea la pasión y la dedicación que vertemos para garantizar que la estancia de cada huésped sea verdaderamente inolvidable. Ya sea por la calidez de nuestra hospitalidad o la belleza de los viñedos y el campo de los alrededores, nuestros huéspedes continúan inspirándonos. Le invitamos a descubrir sus experiencias y esperamos la oportunidad de crear momentos memorables similares para usted."
+	},
+	"useful_links": {
+		"fullPageHeaderTitle": "Enlaces útiles",
+		"fullPageHeaderText": "Descubra tesoros ocultos cercanos: mejore su estancia más allá de nuestro château."
+	}
+}

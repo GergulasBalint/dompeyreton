@@ -1,0 +1,176 @@
+{
+	"navigation": {
+		"home": "Accueil",
+		"our_gites": "Nos Gites",
+		"our_vineyard": "Notre Vignoble",
+		"locality": "Localite",
+		"reservations": "Réservations",
+		"gallery": "Galerie",
+		"about_us": "A Propos De Nous",
+		"contact_us": "Contactez Nous",
+		"terms": "Conditions Generales",
+		"more_info": "Plus d'informations",
+		"reviews": "Avis",
+		"useful_links": "Liens utiles"
+	},
+	"util": {
+		"closeButton": "Fermer"
+	},
+	"taglines": {
+		"tranquillity": "Tranquillité.",
+		"relaxation": "Détente.",
+		"privacy": "Intimité."
+	},
+	"exploreGites": {
+		"heading": "Découvrez nos gîtes de luxe",
+		"detailsLinkText": "Voir les détails du gîte",
+		"gites": {
+			"lodge": {
+				"name": "The Lodge",
+				"description": "2 chambres doubles avec salles de bains"
+			},
+			"barn": {
+				"name": "The Barn",
+				"description": "3 chambres doubles avec salles de bains"
+			}
+		}
+	},
+	"pricing_action": {
+		"heading": "La base idéale pour explorer les propriétés et l'histoire viticole de la région bordelaise.",
+		"buttonText": "Réservations"
+	},
+	"home": {
+		"fullPageHeaderTitle": "Gîtes de vacances de luxe au cœur du vignoble bordelais",
+		"fullPageHeaderButton": "voir la disponibilite les prix",
+		"introContentTitle": "Bienvenue au Château Vieux Moulin",
+		"introContentTextPart1": "Profitez de la paix et de la tranquillité de la campagne française dans nos Gîtes de Prestige - Dom Peyreton cinq étoiles",
+		"introContentTextPart2": "récemment créés, réservés aux adultes. Sans voisins à proximité et avec vue sur notre propre petit vignoble en activité jusqu'aux bois environnants, nos gîtes offrent une occasion idéale de laisser derrière vous les soucis et le bruit de la vie quotidienne et de s'imprégner de l'atmosphère tout en dégustant un verre de quelque chose de frais dans votre piscine privée chauffée.",
+		"introContentTextNote": "Remarque : bien que nous considérions nos gîtes comme l'endroit idéal pour un séjour de détente pour les plus de 18 ans, nous acceptons volontiers les jeunes de plus de 14 ans dont les parents estiment qu'ils s'intègrent bien dans un tel environnement. N'hésitez pas à nous contacter si vous avez des enfants de moins de 18 ans !",
+		"allInclusive": "tout compris*",
+		"allInclusiveModalHeading": "*tout compris",
+		"allInclusiveModalText": "Nous incluons dans les frais de location les frais de draps, de serviettes, de nettoyage et la célèbre taxe de séjour française (payable par jour et par personne), de sorte que le prix que vous voyez est le prix que vous payez.",
+		"homeContentVineyardHeading": "Notre vignoble et nos vins",
+		"homeContentVineyardText": "Situé à côté de l'appellation Fronsac de renommée mondiale, Château Vieux Moulin était autrefois un vignoble primé avec plus de 30 hectares de vignes. La propriété achetée en 2018 par Iain et Marta comprenait 10,5 hectares dont 8,5 étaient plantés en merlot, cabernet sauvignon et cabernet franc.",
+		"homeContentVineyardButton": "En savoir plus",
+		"homeContentLocalityHeading": "Localité",
+		"homeContentLocalityText": "Notre propriété est située au cœur des vignobles bordelais, à quelques minutes en voiture du magnifique village perché de renommée mondiale de Saint-Emilion et à environ 800 m du village local de Villegouge où vous trouverez un petit supermarché, un coiffeur et un artisan boulanger pour vos croissants du matin. Libourne, jolie bastide située au confluent de l'Isle et de la Dordogne, est à environ 10 minutes en voiture et tous les sites et attractions de la belle ville de Bordeaux sont à environ 30 minutes.",
+		"homeContentLocalityButton": "En savoir plus"
+	},
+	"our_gites": {
+		"fullPageHeaderTitle": "Découvrez nos Gîtes de Luxe",
+		"fullPageHeaderText": "La propriété se compose de deux gîtes de qualité dans les dépendances en pierre du Château, récemment classé 5 étoiles par l'Agence de développement touristique de la France. 'The Barn' propose trois chambres avec salle de bains, tandis que 'The Lodge' en propose deux, toutes avec salles de bains. 'Les deux gîtes peuvent être loués ensemble pour offrir un hébergement spacieux pour 10 personnes de cinq chambres avec salles de bains privatives'. Nous avons également une propriété associée à quelques kilomètres avec cinq autres chambres pour les groupes plus importants.",
+		"fullPageHeaderText2": "Nous avons six vélos unisexes disponibles en prêt, si voir la campagne locale sur deux roues c’est votre genre de chose et un terrain de pétanque taille championnat si vous avez envie de perfectionner vos talents de bouliste ou de pétanqueur pendant votre séjour chez nous !",
+		"mainContentParagraph1": "Toutes les chambres disposent d'une salle de bains privative entièrement carrelée, la plupart avec des douches italiennes à effet pluie et des meubles double vasque. Les chambres ont toutes des lits de dimensions 180x200 ou 160x200 avec des draps en coton de haute qualité et des oreillers en duvet d'oie (des options hypoallergéniques sont disponibles) ainsi que des meubles en chêne massif. Les lits sont tous faits et attendent de vous accueillir à votre arrivée.",
+		"mainContentParagraph2": "Chaque gîte est équipé d'une cuisine haut de gamme comprenant une cuisinière, un réfrigérateur-congélateur, un lave-vaisselle, un lave-linge/sèche-linge et des plans de travail en pierre, ainsi que des appareils électroménagers et des équipements de cuisine de haute qualité. Un éclairage d'ambiance LED est fourni partout pour ces moments de détente des vacances les plus relaxantes !",
+		"mainContentParagraph3": "Chaque jardin paysagé offre une piscine privée chauffée, une plancha, un espace de bronzage au bord de la piscine, un grand kiosque en chêne pour les repas en plein air, des meubles de jardin élégants, un éclairage d'ambiance la nuit et de belles vues tranquilles sur la campagne des alentours. Un pack de bienvenue de produits (y compris notre propre vin !) est fourni à l'arrivée pour vous permettre de démarrer.",
+		"mainContentParagraph4": "Un grand parking adapté aux fauteuils roulants est disponible dans l'ample parking en gravier immédiatement adjacent à la cour. Le parking, la cour et le chemin approchant du château sont tous illuminés la nuit pour vous accueillir après une dure journée de visites et de dégustation de l'excellente cuisine et vins locaux.",
+		"mainContentParagraph5": "Nous avons six vélos unisexes disponibles en prêt si voir la campagne locale sur deux roues c'est votre genre de chose!"
+	},
+	"our_vineyard": {
+		"fullPageHeaderTitle": "Notre Vignoble et nos vins",
+		"fullPageHeaderText": "Situé à côté de l'appellation Fronsac de renommée mondiale, Château Vieux Moulin était autrefois un vignoble primé avec plus de 30 hectares de vignes. La propriété achetée en 2018 par Iain et Marta comprenait 10,5 hectares dont 8,5 étaient plantés en merlot, cabernet sauvignon et cabernet franc. Malheureusement, une grande partie du vignoble était en si mauvais état qu'il a dû être enlevé, laissant environ un hectare de merlot encore planté. Cet hectare a été soigneusement cultivé et revigoré depuis 2018 et lors de la récolte 2022 a produit plus de 3 400 litres de vin AOC Bordeaux Supérieur ! Nous élaborons notre vin aussi naturellement que possible et bien que nous ne soyons pas certifiés biologiques, nous respectons autant de processus biologiques que possible. Nous sommes heureux d'organiser une dégustation de nos millésimes de 2018 à 2022 ainsi que ceux de notre propriété associée, Château L'Eperon et d'organiser une visite de nos chais que vous trouverez très compacts et bijou ! Malheureusement, en 2023, notre vignoble a succombé aux ravages du mildiou qui réduit les raisins à néant - il n'y aura donc malheureusement pas de millésime 2023 !"
+	},
+	"locality": {
+		"fullPageHeaderTitle": "Localite",
+		"fullPageHeaderText1": "Notre propriété est située au cœur des vignobles bordelais, à environ 800 mètres du village local de Villegouge où vous trouverez un petit supermarché, un coiffeur et un artisan boulanger pour vos croissants du matin. Nous sommes à quelques minutes en voiture du magnifique village perché de renommée mondiale de Saint-Emilion qui, en 1999, a été classé au patrimoine mondial de l'UNESCO (à voir absolument lors de votre passage - la vue panoramique depuis la cour extérieure de l'hôtel de Pavie est à ne pas manquer). Libourne, jolie bastide située au confluent de l'Isle et de la Dordogne, est à environ 10 minutes en voiture et tous les sites et attractions de la belle ville de Bordeaux sont à environ 30 minutes.",
+		"fullPageHeaderText2": "Libourne est située au confluent de l'Isle et de la Dordogne, accueille chaque semaine trois marchés. Les marchés locaux ont toujours été très présents en France et Libourne en accueille les mardis, vendredis et le 'grand papa' de tous les dimanches, qui compte souvent plus de 100 étals. Un verre après le marché pour accompagner une assiette d'huîtres locales est presque obligatoire et pourrait bien devenir la nouvelle tradition préférée de vos vacances ! Un peu plus loin, tous les sites et attractions de la belle ville de Bordeaux sont à environ 30 minutes et bien sûr, le bassin d'Arcachon offre de belles plages de sable et la dune du Pilat qui est la plus haute dune de sable d'Europe.",
+		"mainContentHeading": "L'arrière-pays de Bordeaux",
+		"mainContentParagraph1": "Les principales régions viticoles de Bordeaux (par exemple St. Emilion, Pomerol, Pauillac, St. Estèphe, Médoc et Margaux) ne sont qu'à une courte distance en voiture, ce qui fait de nos gîtes la base idéale pour explorer l'histoire et les propriétés viticoles de Bordeaux.",
+		"mainContentParagraph2": "Si vous recherchez une vie nocturne animée et un tourbillon social trépidant, alors le Château Vieux Moulin n'est probablement pas pour vous - Si, au contraire, vous recherchez la paix, la tranquillité et les magnifiques environs de l'arrière-pays bordelais, vous devriez certainement venir nous rendre visite !",
+		"mainContentParagraph3": "Notre livret d'accueil fournit plus de détails sur la région, y compris des recommandations pour les restaurants et les lieux à visiter."
+	},
+	"reservations": {
+		"fullPageHeaderTitle": "Disponibilité et prix",
+		"fullPageHeaderText1": "La propriété comprend deux gîtes de qualité dans les dépendances en pierre du Château. The Barn propose trois chambres avec salles de bains privatives tandis que The Lodge en propose deux, encore une fois, avec salles de bains privatives. Les deux gîtes peuvent être loués comme une seule unité pour les grands groupes ou les familles, offrant ainsi un hébergement pour 10 personnes dont cinq chambres toutes avec salles de bain privatives. Nous avons également un gîte associé à quelques kilomètres avec cinq autres chambres pour les grands groupes.",
+		"fullPageHeaderText2": "Pendant la haute saison, les réservations ne peuvent être effectuées que par multiples de sept jours, commençant et se terminant un samedi. En dehors de la haute saison, une réservation peut être effectuée pour un minimum de deux nuits et peut commencer n'importe quel jour à condition que si une réservation est de trois nuits ou moins, des frais de nettoyage supplémentaires de 80 € / 70 £ seront facturés. Nous nous réservons le droit de refuser une réservation sans obligation de fournir de motif.",
+		"table1Heading": "Saisons 2024 - Prix par semaine",
+		"table2Heading": "Saisons 2025 - Prix par semaine",
+		"tableSeason": "Saison",
+		"tableStart": "Début",
+		"tableFinish": "Fin",
+		"tableLodge": "The Lodge",
+		"tableLodgeSpan": "(4 Personnes)",
+		"tableBarn": "The Barn",
+		"tableBarnSpan": "(6 Personnes)",
+		"tableCombined": "The Lodge & The Barn",
+		"tableCombinedSpan": "(10 Personnes)",
+		"tablePeak": "Très haute",
+		"tableHigh": "Haute",
+		"tableMedium": "Moyenne",
+		"tableLow": "Basse saison",
+		"tableInfoText": "Pour des séjours plus courts, divisez simplement le prix indiqué pour la date de début de votre séjour par 7 et multipliez par le nombre de nuits de votre séjour. Les prix comprennent les serviettes (piscine et salle de bains), le linge de lit et la taxe de séjour.",
+		"subContentOtherHeading": "Autres informations",
+		"subContentOtherItem1": "Période de location minimum d'une semaine en très haute saison (du samedi au samedi)",
+		"subContentOtherItem2": "Plus de 18 ans seulement - mais nous accueillons les plus de 14 ans qui s'intègrent dans un environnement adulte (avec leurs parents !).",
+		"subContentOtherItem3": "* Tout compris- nous incluons dans les frais de location les frais de draps, serviettes, nettoyage et la célèbre taxe de séjour française (payable quotidiennement par personne) si vous réservez directement avec nous, le prix que vous voyez est donc le prix que vous payez.",
+		"subContentAvailabilityHeading": "Disponibilité des gîtes",
+		"subContentAvailabilityText1": "Pour connaître les disponibilités et toute information complémentaire ou question que vous pourriez avoir sur notre vignoble, les gîtes ou la région, veuillez nous contacter au :",
+		"subContentAvailabilityText2": "Téléphone : +33 (0)7 66 10 91 01 | +44 (0)7740 930845",
+		"subContentAvailabilityText3": "Alternativement, vous pouvez remplir le formulaire de demande détaillant les informations de votre séjour et les dates requises. Dès réception, nous vous indiquerons si les dates sont disponibles et comment procéder à votre réservation.",
+		"subContentAvailabilityText4Click": "Cliquez ici",
+		"subContentAvailabilityText4": "pour télécharger le formulaire de demande de réservation.",
+		"subContentEnquiryHeading": "Formulaire",
+		"subContentEnquiryName": "Nom de l'invité principal",
+		"subContentEnquiryEmail": "Adresse e-mail",
+		"subContentEnquiryConfirmEmail": "Confirmez votre adresse mail",
+		"subContentEnquiryCottage": "Pour quel gîte souhaitez-vous réserver?",
+		"subContentEnquiryCottageSelectLodge": "The Lodge (Max: 4 Hôtes)",
+		"subContentEnquiryCottageSelectBarn": "The Barn (Max: 6 Hôtes)",
+		"subContentEnquiryCottageSelectBoth": "Tous les Deux (Max: 10 Hôtes)",
+		"subContentEnquiryGuests": "Nombre d'invités",
+		"subContentEnquiryCheckIn": "Check-in",
+		"subContentEnquiryCheckOut": "Check-out",
+		"subContentEnquiry18": "Tous les membres du parti auront 18 ans et plus",
+		"subContentEnquiryButtonText": "ENVOYER LA DEMANDE",
+		"subContentWelcomeBookletButton": "Livret d'Accueil"
+	},
+	"gallery": {
+		"heading": "Galerie",
+		"subHeading": "Vidéos"
+	},
+	"about_us": {
+		"fullPageHeaderTitle": "A Propos De Nous",
+		"fullPageHeaderText1": "Le Château Vieux Moulin est tenu par deux retraités (très) jeunes d'esprit, Iain et Marta Arias-Maxted. Marta est une vétérinaire espagnole qui a déménagé d'Espagne au Royaume-Uni en 2001. Iain est un ingénieur qui a fondé une entreprise en 1996 dans la conception et la fabrication d'équipements pour l'industrie pétrolière qu'il a vendu en 2018. Le couple a déménagé en France en 2019 pour réaliser leur rêve et après avoir mis trois années assez stressantes pour acheter le Château Vieux Moulin !",
+		"fullPageHeaderText2": "Nous espérons que ce ne sera pas le cas, mais si vous rencontrez des problèmes pendant votre séjour, nous sommes à votre disposition pour les résoudre rapidement pour vous. Notre seul objectif est que vous passiez des vacances agréables, reposantes et rajeunissantes - alors dites-nous s'il y a quelque chose de plus que nous pouvons faire pour que cela devienne une réalité.",
+		"mainContentHeading": "Rénovations",
+		"mainContentParagraph": "Les gîtes ont été créés à partir des dépendances en pierre d'origine qui abritaient auparavant plusieurs «cuves» (ou cuves de vinification) utilisées pour élaborer les cuvées primées du château. Un nouveau toit (avec beaucoup d'isolation) a été installé en 2021, ainsi que des sols entièrement neufs et fortement isolés, désormais équipés d'un plancher chauffant et recouverts de travertin naturel. La structure en pierre a été conservée, rénovée, réparée et rejointoyée. Un premier étage a été installé pour The Barn lors de la rénovation, toute la charpente étant fabriquée à la main sur place à partir de chêne français. Les travaux de rénovation ont posé leur lot de défis, à commencer par le fait qu'aucun des murs n'était droit ou vertical !"
+	},
+	"contact_us": {
+		"mainContentTitle": "Contactez-Nous",
+		"mainContentParagraph": "N'hésitez pas à nous contacter si vous avez des questions. Vous pouvez utiliser le formulaire ci-dessous et nous vous répondrons dès que possible ou bien appelez-nous ou envoyez-nous un e-mail directement - les détails sont ci-dessous",
+		"formFirstName": "Prénom",
+		"formLastName": "Nom de famille",
+		"formEmail": "E-mail",
+		"formMessage": "Message",
+		"formSubmit": "Envoyer La Demande"
+	},
+	"find_us": {
+		"heading": "Où nous trouver",
+		"text1": "Nous sommes dans une zone assez rurale et bien que nous soyons très heureux de vous prêter nos vélos pour visiter les vignobles locaux, vous avez vraiment besoin d'une voiture pour tirer le meilleur parti de la région !",
+		"text2": "Nos gîtes sont situés à environ 27 km au nord-est de Bordeaux."
+	},
+	"individual_gite": {
+		"information": "Informations du gîte",
+		"facilities": "Installations",
+		"suites": "Chambres à coucher - Salles de bain",
+		"kitchen": "Equipements de cuisine",
+		"garden": "Jardin et son équipement"
+	},
+	"other_information": {
+		"title": "Autres informations",
+		"period": "Période de location minimum d'une semaine en très haute saison",
+		"age": "Plus de 18 ans seulement - mais nous accueillons les plus de 14 ans qui s'intègrent dans un environnement adulte (avec leurs parents !).",
+		"allInclusive": "* Tout compris- nous incluons dans les frais de location les frais de draps, serviettes, nettoyage et la célèbre taxe de séjour française (payable par jour et par personne) de sorte que le prix que vous voyez est le prix que vous payez."
+	},
+	"welcome_pack": {
+		"includes": "Votre pack de bienvenue comprend :"
+	},
+	"reviews": {
+		"fullPageHeaderTitle": "Commentaires",
+		"fullPageHeaderText": "Bienvenue sur la page des commentaires des clients de notre belle propriété. Ici, vous trouverez une collection d'expériences précieuses, de moments d'enchantement et les histoires réconfortantes de nos précieux invités du monde entier. Nous espérons que vous verrez cette collection de commentaires comme plus que de simples mots - Nous le voyons comme un témoignage des souvenirs créés à partir de la paix et de la tranquillité de notre environnement et tissés dans les murs de pierre de notre château. En parcourant ces histoires, nous espérons que vous verrez la passion et le dévouement que nous déployons pour faire en sorte que le séjour de chaque client soit vraiment inoubliable. Que ce soit la chaleur de notre hospitalité ou la beauté des vignobles et de la campagne environnante, nos hôtes continuent de nous inspirer. Nous vous invitons à découvrir leurs expériences et attendons avec impatience l'opportunité de créer des moments mémorables similaires pour vous."
+	},
+	"useful_links": {
+		"fullPageHeaderTitle": "Liens utiles",
+		"fullPageHeaderText": "Découvrez les trésors cachés à proximité : améliorez votre séjour au-delà de notre château."
+	}
+}

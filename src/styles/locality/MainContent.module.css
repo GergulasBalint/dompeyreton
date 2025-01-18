@@ -1,0 +1,60 @@
+.row {
+    padding-top:2.5rem;
+    padding-bottom:3rem;
+}
+
+.image{
+    width: 100%;
+    height: auto;
+}
+
+.background{
+    background-color: #f4f4f4;
+}
+
+.taglineContainer {
+    padding: 0.5rem 0;
+}
+
+.tagline {
+    font-size: 3rem;
+    color: #c78d38;
+}
+
+.textContainer {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.text {
+    font-size:1rem;
+    line-height: 1.7rem;
+}
+
+.calltoaction{
+    display: inline-block;
+    background-color: #c78d38;
+    padding: 1rem;
+    width:auto;
+    color: #FFF;
+    margin-left: 2rem;
+    margin-top:1rem;
+}
+
+.calltoaction a{
+    color: #FFF;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+@media screen and (min-width: 992px) {
+    .textContainer{
+        padding-top:2rem;
+        padding-left: 2rem;
+        max-width: 500px;
+        text-align: left;
+    }
+}
+

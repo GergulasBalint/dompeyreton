@@ -1,0 +1,37 @@
+.linkGroup {
+  margin-bottom: 1.25rem;
+}
+
+.groupContainer {
+  margin-bottom: 1.5rem;
+}
+
+.linkContainer {
+  width: fit-content;
+  margin: auto;
+  margin-bottom: 1rem;
+  text-align: center;
+  border: #ddd solid 2px;
+}
+
+.linkContainer:hover {
+  background-color: #c78d38;
+  color: #fff;
+  border-color: #c78d38;
+  transition: all ease-in-out 250ms;
+}
+
+.linkContainer:hover .link {
+  color: #fff;
+}
+
+.link {
+  display: block;
+  padding: 0.5rem 2rem;
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #c78d38;
+  height: 100%;
+  width: 100%;
+  transition: all ease-in-out 250ms;
+}

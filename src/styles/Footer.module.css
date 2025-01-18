@@ -1,0 +1,208 @@
+.main {
+  background-color: #fff;
+}
+
+.logoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0rem;
+  width: 100%;
+  height: 100%;
+}
+
+.contactPhoneContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+}
+
+.phoneLink {
+  font-family: "playfair-display", serif;
+  font-size: 1.3rem;
+  color: #000;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+.phoneLink:hover {
+  color: #c78d38;
+}
+
+.bullet {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 2rem;
+  color: #c78d38;
+}
+
+.emailLink {
+  font-family: "PlayfairDisplay";
+  font-size: 1.3rem;
+  color: #000;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+.emailLink:hover {
+  color: #c78d38;
+}
+
+.addressContainer {
+  margin: 0.5rem 0;
+}
+
+.address {
+  color: #000;
+  font-size: 0.8rem;
+}
+
+.subNavContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.navLinkContainer {
+  padding: 0.5rem 1rem;
+  border-top: 1px solid #dedede;
+  border-bottom: 1px solid #dedede;
+}
+
+.navLink {
+  font-family: "lato", sans-serif;
+  font-size: 0.8rem;
+  color: #c78d38;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  transition: color 0.2s ease-in-out, border-bottom 0.3s ease;
+}
+
+.navLink:hover {
+  color: #000;
+  border-bottom: 2px solid #c78d38;
+}
+
+.copyRightContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.copyLinkContainer {
+  margin-top: 0.9rem;
+  margin-bottom: 0.75rem;
+  padding: 0.1rem 1rem;
+  border-right: 1px solid #000000;
+}
+
+.copyLinkContainer:last-child {
+  border-right: none;
+}
+
+.copyLink {
+  font-family: "lato", sans-serif;
+  font-size: 0.8rem;
+  color: #000;
+  text-decoration: none;
+  letter-spacing: normal;
+  transition: border-bottom 0.3s ease;
+}
+
+.copyLink:hover {
+  color: #000;
+  border-bottom: 2px solid #c78d38;
+}
+
+.copyRightText {
+  font-family: "lato", sans-serif;
+  font-size: 0.8rem;
+  color: #000;
+  text-decoration: none;
+  letter-spacing: normal;
+}
+
+.socials {
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.socialImage {
+  cursor: pointer;
+  position: relative;
+  height: 34px;
+  width: 34px;
+  transition: transform ease-in-out 250ms;
+}
+
+.socialImage:hover {
+  transform: scale(1.1);
+}
+
+.regionalImage {
+  position: relative;
+  height: 67.5px;
+  aspect-ratio: 16/9;
+}
+
+.regionalImageGironde {
+  position: relative;
+  height: 67.5px;
+  aspect-ratio: 480/194;
+}
+
+@media screen and (max-width: 992px) {
+  .subNavContainer {
+    padding: 0.3rem 0;
+    border-top: 1px solid #dedede;
+    border-bottom: 1px solid #dedede;
+  }
+
+  .navLinkContainer {
+    padding: 0.5rem;
+    line-height: 1;
+    border: none;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .copyLinkContainer {
+    padding: 0.5rem;
+    border: none;
+  }
+
+  .copyLink {
+    font-size: 0.8rem;
+  }
+
+  .socials {
+    display: grid;
+    position: relative;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .socials > div:nth-child(1) {
+    margin-left: 75%;
+  }
+  .socials > div:nth-child(2) {
+    margin-right: 75%;
+  }
+
+  .socials > div {
+    margin: 1rem auto;
+  }
+}

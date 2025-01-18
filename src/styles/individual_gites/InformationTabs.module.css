@@ -1,0 +1,199 @@
+.background {
+  background-color: #f4f4f4;
+}
+
+.container {
+  padding: 2rem;
+  height: fit-content;
+  transition: height 0.3s ease;
+  width: 100%;
+}
+
+.mainTitle {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.tabs {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  border-bottom: 1px solid #000;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+.tab {
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+  margin-right: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  cursor: pointer;
+  border-bottom: 2px solid #f4f4f4;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  color: #c78d38;
+  white-space: nowrap;
+}
+
+.active {
+  text-align: left;
+  color: #000;
+  border-bottom: 2px solid #000;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+.tabContentWrapper {
+  padding: 1rem 0 1rem 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.75rem;
+  margin-left: 1rem;
+  border-bottom: 1px solid #000;
+  
+}
+
+.tabListItem {
+  list-style: none;
+}
+
+.tabList {
+  font-family: "lato", sans-serif;
+  font-size: 1rem;
+  position: relative;
+}
+
+.tabListItem::before {
+  content: "\2022";
+  color: #c78d38;
+  font-size: 1rem;
+  font-weight: bold;
+  display: inline-block;
+  width: 1.5em;
+  margin-left: -1em;
+}
+
+.themeTitle {
+  font-family: "lato", sans-serif;
+  list-style: none;
+  margin-left: -1em;
+  margin-bottom: 1rem;
+}
+
+.themeH4 {
+  width: fit-content;
+  font-size: 1.2rem;
+  border-bottom: 2px solid #c78d38;
+  padding-bottom: 0.2rem;
+  padding-right: 0.5rem;
+}
+
+.facility {
+  font-family: "lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.5rem;
+  margin-left: -1em;
+}
+
+.facilityList {
+  list-style: none;
+  font-family: "lato", sans-serif;
+}
+
+.facility::before {
+  content: "\2022";
+  color: #c78d38;
+  font-size: 1rem;
+  font-weight: bold;
+  display: inline-block;
+  width: 1.5em;
+  margin-left: -1em;
+}
+
+.kitchenTab {
+  padding: 0rem 1rem 0rem 1rem;
+}
+
+.kitchenInfo {
+  font-family: "lato", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.kitchenTabList {
+  font-family: "lato", sans-serif;
+  list-style: none;
+}
+
+.kitchenTabListItem {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  margin-left: -1em;
+}
+.kitchenTabListItem::before {
+  content: "\2022";
+  color: #c78d38;
+  font-size: 1rem;
+  font-weight: bold;
+  display: inline-block;
+  width: 1.5em;
+  margin-left: -1em;
+}
+
+.garden {
+  padding-left: 1rem;
+}
+
+.gardenList {
+  list-style: none;
+  font-family: "lato", sans-serif;
+}
+
+.gardenListItem::before {
+  content: "\2022";
+  color: #c78d38;
+  font-size: 1rem;
+  font-weight: bold;
+  display: inline-block;
+  width: 1.5em;
+  margin-left: -1em;
+}
+
+.gardenListItem {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  margin-left: -1em;
+}
+
+.gardenListItem::before {
+  content: "\2022";
+  color: #c78d38;
+  font-size: 1rem;
+  font-weight: bold;
+  display: inline-block;
+  width: 1.5em;
+  margin-left: -1em;
+}
+
+@media screen and (max-width: 992px) {
+  .container {
+    padding: 0;
+  }
+  .background {
+    padding-top: 2rem;
+    --bs-gutter-x: 0;
+  }
+}

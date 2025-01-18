@@ -1,0 +1,15 @@
+.largeScreen {
+  display: none;
+  margin-right: 20px;
+  margin-top: 7px;
+}
+
+@media (width >= 1055px) {
+  .largeScreen {
+    display: block;
+  }
+
+  .smallScreen {
+    display: none;
+  }
+}

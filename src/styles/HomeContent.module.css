@@ -1,0 +1,161 @@
+.background {
+  padding: 0;
+  margin: 0;
+  height: fit-content;
+  background-image: url("/home_images/grape_vine_bg_pattern.webp");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: 0;
+  padding: 6rem 0 3rem 0;
+}
+
+.row {
+  margin-bottom: 2rem;
+  flex-direction: row;
+}
+
+.lowerRow {
+  margin-bottom: 2rem;
+  flex-direction: row;
+}
+
+.imageContainer {
+  width: 100%;
+  padding: 2rem;
+}
+
+.imageContainer > div {
+  position: unset !important;
+}
+
+.image {
+  object-fit: contain;
+  width: 100% !important;
+  position: relative !important;
+  height: unset !important;
+}
+
+.imageWine {
+  content: url("/home_images/wine_barrel_cropped.webp");
+}
+
+.imageCathedral {
+  content: url("/home_images/cathedral.webp");
+}
+
+.content {
+  padding: 2rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: #000;
+}
+
+.text {
+  font-size: 1rem;
+  font-weight: 400;
+  margin-bottom: 1rem;
+  color: #000;
+  max-width: 450px;
+}
+
+.button {
+  font-family: "lato", sans-serif;
+  font-weight: bold;
+  color: #fff;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  padding: 0.7rem 1.5rem;
+  background-color: #c78d38;
+  border: none;
+  margin-top: 1rem;
+}
+
+.buttonMobile {
+  display: none;
+}
+
+.buttonMobileContainer {
+  margin-top: 8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-bottom: 8rem;
+}
+
+.wineMobile {
+  display: none;
+}
+
+.cathedralMobile {
+  display: none;
+}
+
+.wineBg {
+  background-image: url("/home_images/wine_barrel_cropped.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.cathedralBg {
+  background-image: url("/home_images/cathedral.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.contentLow {
+  padding-left: 4rem;
+}
+
+@media screen and (max-width: 992px) {
+  .row {
+    flex-direction: column-reverse;
+  }
+
+  .background {
+    padding: 2rem 0;
+  }
+
+  .wineMobile {
+    display: flex;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    max-height: 470px;
+  }
+
+  .cathedralMobile {
+    display: flex;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    max-height: 470px;
+  }
+
+  .button {
+    display: none;
+  }
+
+  .imageContainer {
+    display: none;
+  }
+
+  .contentLow {
+    padding-left: 2rem;
+    padding-top: 4rem;
+  }
+}

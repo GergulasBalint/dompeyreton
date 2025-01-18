@@ -1,0 +1,175 @@
+@media (max-width: 526px) {
+  .tableContainer {
+    margin-bottom: 1rem;
+  }
+
+  .pricingTable,
+  .tableHead,
+  .tableBody,
+  .tableData,
+  .tableRow {
+    display: block;
+  }
+
+  .tableHead .tableRow {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .tableRow {
+    border: none;
+  }
+
+  .tableRow:nth-child(even) {
+    background-color: #f4f4f4;
+  }
+
+  .tableData {
+    border: none;
+    border-bottom: 1px solid #ddd;
+    position: relative;
+    padding-left: 50%;
+    width: 90vw;
+    text-align: right;
+  }
+
+  .tableData:before {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+  }
+  .tableData:nth-of-type(1):before {
+    content: "Season";
+    font-weight: 500;
+    text-align: left;
+    top: 0;
+  }
+  .tableData:nth-of-type(2):before {
+    content: "Start";
+    font-weight: 500;
+    text-align: left;
+    top: 0;
+  }
+  .tableData:nth-of-type(3):before {
+    content: "Finish";
+    font-weight: 500;
+    text-align: left;
+    top: 0;
+  }
+  .tableData:nth-of-type(4):before {
+    content: "The Lodge (4 Persons)";
+    font-weight: 500;
+    text-align: left;
+    top: 0;
+  }
+  .tableData:nth-of-type(5):before {
+    content: "The Barn (6 Persons)";
+    font-weight: 500;
+    text-align: left;
+    top: 0;
+  }
+  .tableData:nth-of-type(6):before {
+    content: "Combined (10 Persons)";
+    font-weight: 500;
+    text-align: left;
+    top: 0;
+  }
+}
+
+@media (min-width: 527px) {
+  .row {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+
+  .image {
+    width: 100%;
+    height: auto;
+  }
+
+  .background {
+    background-color: #f4f4f4;
+  }
+
+  .taglineContainer {
+    padding: 2rem 0;
+  }
+
+  .tagline {
+    font-size: 3rem;
+    color: #c78d38;
+  }
+
+  .textContainer {
+    padding-top: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .text {
+    font-size: 1rem;
+    line-height: 1.7rem;
+  }
+
+  .subtext {
+    border-top: 1px solid #000;
+    margin-top: 3rem;
+    padding: 2rem;
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  .textContainer h2 {
+    padding-bottom: 1rem;
+  }
+
+  .calltoaction {
+    display: inline-block;
+    background-color: #c78d38;
+    padding: 1rem;
+    width: auto;
+    color: #fff;
+    margin-left: 2rem;
+    margin-top: 1rem;
+  }
+
+  .calltoaction a {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  .pricingTable {
+    font-size: 0.7rem;
+    width: 100%;
+    text-align: center;
+    line-height: 1rem;
+  }
+
+  .pricingTable td {
+    padding: 0.6rem;
+    vertical-align: middle;
+  }
+
+  .pricingTable tr:nth-child(odd) {
+    background-color: #fff;
+  }
+
+  .pricingTable thead td {
+    font-weight: bold;
+  }
+
+  .pricingTable thead span {
+    display: block;
+    line-height: 1rem;
+  }
+
+  .pricingTable thead tr {
+    background-color: #f4f4f4 !important;
+  }
+}

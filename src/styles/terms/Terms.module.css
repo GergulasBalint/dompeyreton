@@ -1,0 +1,34 @@
+.heading {
+  padding-top: 7rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}
+
+.notice {
+  color: red;
+  font-weight: 700;
+  font-family: "lato";
+  max-width: 700px;
+  margin: 1rem auto;
+}
+
+.terms {
+  margin: 0 auto;
+  margin-bottom: 3rem;
+  max-width: 95%;
+}
+
+.sectionHeading {
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
+@media screen and (min-width: 992px) {
+  .heading h1 {
+    font-size: 2.5rem;
+  }
+  .terms {
+    max-width: 80%;
+  }
+}

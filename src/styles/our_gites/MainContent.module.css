@@ -1,0 +1,29 @@
+.row {
+    padding-top:3rem;
+    padding-bottom:3rem;
+}
+
+.taglineContainer {
+    padding:2rem 0;
+}
+
+.tagline {
+    font-size: 3rem;
+    color: #c78d38;
+}
+
+.textContainer {
+    padding-top:2rem;
+    max-width: 500px;
+}
+
+.text {
+    font-size:1rem;
+}
+
+@media screen and (max-width: 992px) {
+    .textContainer {
+        max-width: 100%;
+    }
+}
+

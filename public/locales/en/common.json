@@ -1,0 +1,176 @@
+{
+	"navigation": {
+		"home": "Home",
+		"our_gites": "Our Gites",
+		"our_vineyard": "Our Vineyard",
+		"locality": "Locality",
+		"reservations": "Reservations",
+		"gallery": "Gallery",
+		"about_us": "About Us",
+		"contact_us": "Contact Us",
+		"terms": "Terms & Conditions",
+		"more_info": "More Info",
+		"reviews": "Reviews",
+		"useful_links": "Useful Links"
+	},
+	"util": {
+		"closeButton": "Close"
+	},
+	"taglines": {
+		"tranquillity": "Tranquillity.",
+		"relaxation": "Relaxation.",
+		"privacy": "Privacy."
+	},
+	"exploreGites": {
+		"heading": "Explore our Luxury Gites",
+		"detailsLinkText": "view cottage details",
+		"gites": {
+			"lodge": {
+				"name": "The Lodge",
+				"description": "2 double ensuite bedrooms"
+			},
+			"barn": {
+				"name": "The Barn",
+				"description": "3 double ensuite bedrooms"
+			}
+		}
+	},
+	"pricing_action": {
+		"heading": "The perfect base to explore the properties and wine-making history of the Bordeaux region.",
+		"buttonText": "Reservations"
+	},
+	"home": {
+		"fullPageHeaderTitle": "Luxury holiday cottages in the heart of the Bordeaux vineyards",
+		"fullPageHeaderButton": "view availability & prices",
+		"introContentTitle": "Welcome to Château Vieux Moulin",
+		"introContentTextPart1": "Enjoy the peace and tranquillity of the French countryside at our newly created, adults-only,",
+		"introContentTextPart2": "five star Dom Peyreton Gites de Prestige. With no nearby neighbours and views over our own small, working vineyard to the surrounding woods, our cottages offer an ideal opportunity to leave the cares and noise of every-day life behind and soak up the atmosphere whilst enjoying a glass of something chilled in your private, heated plunge pool.",
+		"introContentTextNote": "Please note: whilst we consider our cottages the ideal location for a relaxing break for those over 18, we are more than happy to accept youngsters over the age of 14 whose parents feel that they would fit into such an environment - please feel free to contact us if you have children under 18!",
+		"allInclusive": "all-inclusive*",
+		"allInclusiveModalHeading": "*all-inclusive",
+		"allInclusiveModalText": "We include in the rental charges costs for linen, towels, cleaning and the famed French taxe de sejour (payable daily per person) so the price you see is the price you pay.",
+		"homeContentVineyardHeading": "Our vineyard and wines",
+		"homeContentVineyardText": "Located adjacent to the world-renowned Fronsac appellation, Chateau Vieux Moulin was once an award winning vineyard with over 30 hectares of vines. The parcel of land bought in 2018 by Iain and Marta comprised 10.5 hectares of which 8.5 were planted with merlot, cabernet sauvignon and cabernet franc.",
+		"homeContentVineyardButton": "find out more",
+		"homeContentLocalityHeading": "Locality",
+		"homeContentLocalityText": "Our property is located deep in the Bordeaux vineyards, a short drive from the beautiful, world famous hill-top village of St. Emilion and about 800m from the local village of Villegouge where you will find a small supermarket, hairdresser and artisan boulanger for your morning croissants. Libourne, a pretty bastide town located at the confluence of the Isle and Dordogne rivers, is around 10 minutes' drive and all the sites and attractions of the beautiful city of Bordeaux are around 30 minutes away.",
+		"homeContentLocalityButton": "find out more"
+	},
+	"our_gites": {
+		"fullPageHeaderTitle": "Explore our Luxury Cottages",
+		"fullPageHeaderText": "The property comprises two high-quality cottages within the Chateau's stone outbuildings, recently rated 5 star by the Gironde Tourist Authority. 'The Barn' offers three en-suite bedrooms whilst 'The Lodge' offers two, again, all en-suite. 'The two cottages can be rented together to offer spacious accommodation for 10 in five en-suite bedrooms' We also have an associate property a few km away with a further five bedrooms for larger groups.",
+		"fullPageHeaderText2": "",
+		"mainContentParagraph1": "All bedrooms have fully tiled en-suite bathrooms, most with Italian, wet-room rainfall showers and 'Jack 'n' Jill' luxury sink units. The bedrooms all have king or queen size beds with high quality cotton bed linen and goose-down pillows (non-allergenic options are available) together with solid oak furniture. Beds are all made up and waiting to greet you on arrival.",
+		"mainContentParagraph2": "Each cottage is fitted with a high-specification kitchen featuring a range cooker, fridge-freezer, dishwasher, washer/dryer and stone worktops together with high quality appliances and kitchen equipment. LED mood lighting is provided throughout for those relaxing moments of a most relaxing holiday!",
+		"mainContentParagraph3": "Each land-scaped garden offers a private, heated plunge pool, Plancha, pool-side sun-bathing area, a large oak gazebo for alfresco dining, elegant garden furniture, mood lighting at night and beautiful, tranquil views over the adjoining countryside. A welcome pack of produce (including our own wine!) is provided on arrival to get you up and running.",
+		"mainContentParagraph4": "Ample, wheel-chair friendly parking is available in a large gravelled parking area immediately adjacent to the courtyard and the parking, courtyard and the Chemin approaching the chateau are all illuminated at night to welcome you back after a tough day's sightseeing and sampling of the excellent local cuisine and wine.",
+		"mainContentParagraph5": "We have six unisex bikes available for loan if seeing the local countryside on two wheels is your thing and a championship-sized ‘Terrain a pétanque’ if you fancy honing your boule/petanque skills whilst you stay with us!"
+	},
+	"our_vineyard": {
+		"fullPageHeaderTitle": "Our Vineyard and wines",
+		"fullPageHeaderText": "Located adjacent to the world-renowned Fronsac appellation, Château Vieux Moulin was once an award winning vineyard with over 30 hectares of vines. The parcel of land bought in 2018 by Iain and Marta comprised 10.5 hectares of which 8.5 were planted with merlot, cabernet sauvignon and cabernet franc. Unfortunately, much of the vineyard was in such a poor state that it had to be removed leaving around one hectare of merlot still planted. This hectare has been carefully cultivated and reinvigorated since 2018 and during the 2022 harvest produced over 3,400 litres of AOC Bordeaux Superieur wine! We make our wine as naturally as possible and whilst we are not organic-certified we comply with as many of the organic processes as is practical. We are happy to arrange a wine tasting of our vintages from 2018 to 2022 together with those of our associate property, Château L'Eperon and to arrange a viewing of our chais which you'll find very compact and bijou! Unfortunately 2023 saw our vineyard succumb to the ravages of mildew which shrivels the grapes to nothing – there sadly won’t therefore be a 2023 vintage!"
+	},
+	"locality": {
+		"fullPageHeaderTitle": "Local Amenities",
+		"fullPageHeaderText1": "Our cottages are located deep in the Bordeaux vineyards, about 800m from the local village of Villegouge where you will find a small supermarket, hairdresser and artisan boulanger for your morning croissants. We are only a short drive from the beautiful, world-renowned hill-top village of St. Emilion which, in 1999 was made a UNESCO World Heritage Site (a must see while you’re here – the panoramic view from the courtyard outside the hotel de Pavie is not to be missed). Libourne, a pretty bastide town located at the confluence of the Isle and Dordogne rivers, is around 10 minutes' drive and all the sites and attractions of the beautiful city of Bordeaux are around 30 minutes away.",
+		"fullPageHeaderText2": "Libourne, located at the confluence of the Isle (pronounced 'easel') and Dordogne rivers, is home to three markets each week. Local markets have always been a big thing in France and Libourne plays host on Tuesdays, Fridays and the 'big daddy' of them all on Sundays which frequently features upwards of 100 stalls. A post-market drink to wash down a plate of the local oysters is almost compulsory and may well become your holiday's new favourite tradition! Only slightly further afield, all the sites and attractions of the beautiful city of Bordeaux are around 30 minutes away and of course, the Arcachon basin offers beautiful sandy beaches and the dune de Pilat which is the highest sand dune in Europe.",
+		"mainContentHeading": "The Bordeaux Hinterland",
+		"mainContentParagraph1": "The major wine producing areas of Bordeaux (for example St. Emilion, Pomerol, Pauillac, St. Estèphe, Medoc and Margaux) are but a short drive away making our gites the perfect base to explore the wine-making history and properties of the Bordeaux region.",
+		"mainContentParagraph2": "If you are looking for exciting nightlife and a hectic social whirl then Chateau Vieux Moulin is probably not for you - If, instead, you seek peace, tranquillity and the beautiful surroundings of the Bordeaux hinterland then you should definitely come and visit us!",
+		"mainContentParagraph3": "Our welcome booklet provides more details of the local area, including recommendations for restaurants and places to visit."
+	},
+	"reservations": {
+		"fullPageHeaderTitle": "Availability & Pricing",
+		"fullPageHeaderText1": "The property comprises two high-quality cottages within the Château's stone outbuildings. The Barn offers three en-suite bedrooms whilst The Lodge offers two, again, all en-suite. The two gites can be rented as a single unit for larger groups or families so offering accommodation for 10 in five en-suite bedrooms. We also have an associate gite a few km away with a further five bedrooms for large groups.",
+		"fullPageHeaderText2": "During peak season bookings can be made only in multiples of seven days, starting and finishing on a Saturday. Outside peak season, a booking can be made for a minimum of two nights and can start on any day subject to the proviso that if a booking is for three nights or fewer an additional cleaning charge of €80 / £70 will be made. We reserve the right to decline a booking without obligation to provide any reason.",
+		"table1Heading": "Seasons 2024 - Prices per week",
+		"table2Heading": "Seasons 2025 - Prices per week",
+		"tableSeason": "Season",
+		"tableStart": "Start",
+		"tableFinish": "Finish",
+		"tableLodge": "The Lodge",
+		"tableLodgeSpan": "(4 Persons)",
+		"tableBarn": "The Barn",
+		"tableBarnSpan": "(6 Persons)",
+		"tableCombined": "Combined",
+		"tableCombinedSpan": "(10 Persons)",
+		"tablePeak": "Peak",
+		"tableHigh": "High",
+		"tableMedium": "Medium",
+		"tableLow": "Low",
+		"tableInfoText": "For shorter stays simply divide the price shown for the start date of your stay by 7 and multiply by the number of nights of your stay. Prices include towels (pool and bathroom), bed linen and taxe de sejour.",
+		"subContentOtherHeading": "Other Information",
+		"subContentOtherItem1": "Minimum rental period of one week during peak season (Sat to Sat)",
+		"subContentOtherItem2": "Over 18 years old only – although we welcome over 14’s who would fit into to an adult environment (with parents!).",
+		"subContentOtherItem3": "* All Inclusive - we include in the rental charges costs for linen, towels, cleaning and the famed French taxe de sejour (payable daily per person) if you book directly with us so the price you see is the price you pay.",
+		"subContentAvailabilityHeading": "Gite availability",
+		"subContentAvailabilityText1": "For availability and any further information or queries you may have about our vineyard, the gites or the local area, please contact us on:",
+		"subContentAvailabilityText2": "Telephone: +33 (0)7 66 10 91 01 | +44 (0)7740 930845",
+		"subContentAvailabilityText3": "Alternatively, you can fill out the enquiry form detailing your stay information and dates required. Once received, we will let you know if the dates are available and how to proceed with your reservation.",
+		"subContentAvailabilityText4Click": "Click here",
+		"subContentAvailabilityText4": "to download the reservation request form.",
+		"subContentEnquiryHeading": "Enquiry Form",
+		"subContentEnquiryName": "Lead Guest Name",
+		"subContentEnquiryEmail": "Email address",
+		"subContentEnquiryConfirmEmail": "Confirm Email address",
+		"subContentEnquiryCottage": "For which cottage would you like to make a reservation?",
+		"subContentEnquiryCottageSelectLodge": "The Lodge (Max: 4 Guests)",
+		"subContentEnquiryCottageSelectBarn": "The Barn (Max: 6 Guests)",
+		"subContentEnquiryCottageSelectBoth": "Both (Max: 10 Guests)",
+		"subContentEnquiryGuests": "Number of Guests",
+		"subContentEnquiryCheckIn": "Check In",
+		"subContentEnquiryCheckOut": "Check Out",
+		"subContentEnquiry18": "All party members will be 18+",
+		"subContentEnquiryButtonText": "Submit Request",
+		"subContentWelcomeBookletButton": "Welcome Booklet"
+	},
+	"gallery": {
+		"heading": "Gallery",
+		"subHeading": "Videos"
+	},
+	"about_us": {
+		"fullPageHeaderTitle": "About Us",
+		"fullPageHeaderText1": "Château Vieux Moulin is run by two (very) young-at-heart retirees, Iain and Marta Arias-Maxted. Marta is a Spanish veterinary surgeon who moved to the UK from Spain in 2001. Iain is an engineer who founded a business in 1996 designing and manufacturing equipment for the oil industry which he sold in 2018. The couple moved to France in 2019 following a long-standing dream and having taken three rather stressful years to buy Château Vieux Moulin!",
+		"fullPageHeaderText2": "We hope you won't, but if you have any problems during your stay then we are close at hand to quickly resolve them for you. Our one aim is that you have an enjoyable, restful and rejuvenating holiday - so please tell us if there is anything more we can do to make that a reality.",
+		"mainContentHeading": "Renovations",
+		"mainContentParagraph": "The cottages have been created from the original, stone outbuildings which previously housed several 'cuves' (or wine making tanks) used to making the chateau's award-winning vintages. A new roof (with lots of insulation) was installed in 2021, along with completely new and heavily insulated floors, now fitted with underfloor heating and covered in natural travertine. The stone structure was retained, being renovated, repaired and repointed. A first floor was installed for the Barn during the renovation with all the structural timberwork being hand-made on-site from French oak. The renovation works posed its own set of challenges, starting with the fact that none of the walls were straight or vertical!"
+	},
+	"contact_us": {
+		"mainContentTitle": "Contact Us",
+		"mainContentParagraph": "Please feel free to contact us if you have any queries. You can use either the form below and we will get back to you as soon as we can or alternatively call us or e-mail directly - details are below",
+		"formFirstName": "First Name",
+		"formLastName": "Last Name",
+		"formEmail": "Email",
+		"formMessage": "Message",
+		"formSubmit": "Submit"
+	},
+	"find_us": {
+		"heading": "Where To Find Us",
+		"text1": "We are in quite a rural location and whilst we are very happy to lend you our bikes to tour the local vineyards you do really need to have a car to get the most out of the area!",
+		"text2": "Our cottages are located about 17 miles / 27 km north-east of Bordeaux."
+	},
+	"individual_gite": {
+		"information": "Cottage Information",
+		"facilities": "Facilities",
+		"suites": "Bedroom Suites",
+		"kitchen": "Kitchen Facilities",
+		"garden": "Garden Facilities"
+	},
+	"other_information": {
+		"title": "Other Information",
+		"period": "Minimum rental period of one week during peak season",
+		"age": "Over 18 years old only – although we welcome over 14’s who would fit into to an adult environment (with parents!).",
+		"allInclusive": "*All Inclusive - we include in the rental charges costs for linen, towels, cleaning and the famed French taxe de sejour (payable daily per person) so the price you see is the price you pay."
+	},
+	"welcome_pack": {
+		"includes": "Your welcome pack includes:"
+	},
+	"reviews": {
+		"fullPageHeaderTitle": "Reviews",
+		"fullPageHeaderText": "Welcome to the Guest Reviews page for our beautiful property. Here, you'll find a collection of cherished experiences, moments of enchantment, and the heart-warming stories of our valued guests from across the globe. We hope that you'll see this collection of feedback as more than just words. We see it as a testament to the memories created from the peace and tranquillity of our surroundings and woven into the stone walls of our chateau. As you journey through these stories, we hope you'll see the passion and dedication we pour into ensuring each guest's stay is truly unforgettable. Whether it's the warmth of our hospitality or the beauty of the surrounding vineyards and countryside, our guests continue to inspire us. We invite you to discover their experiences and look forward to the opportunity to create similar memorable moments for you."
+	},
+	"useful_links": {
+		"fullPageHeaderTitle": "Useful Links",
+		"fullPageHeaderText": "Discover Nearby Hidden Gems: Enhance Your Stay Beyond Our Chateau."
+	}
+}
